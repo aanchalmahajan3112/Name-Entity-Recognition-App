@@ -1,1 +1,1 @@
-# -Name-Entity-Recognition-App
+# Name-Entity-Recognition-App
